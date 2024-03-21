@@ -1,7 +1,12 @@
 ### 👋 Bem-vindos!
-_☕ "Não gostaria de entrar e tomar uma xícara de café? - Dona Florinda_
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineFOliveira&layout=compact&theme=gruvbox) <img src="https://conceitos.com/wp-content/uploads/ecologia/Girassol.jpg" style='width:175px;'></img>
+#
+<div style='display:inline_block'><br>
+  <a href='mailto:aliferroli18@gmail.com'><img align='center' height='30' ' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
+  <a href='https://discordapp.com/users/1146929593081679944'><img align='center' height='30' src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'></a>
+  <a href='www.linkedin.com/in/aline-ferreiraoliveira'><img align='center' height='30' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+</div>
 <!--
 **AlineFOliveira/AlineFOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
