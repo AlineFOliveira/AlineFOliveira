@@ -1,7 +1,7 @@
 ### 👋 Bem-vindos!
 _☕ "Não gostaria de entrar e tomar uma xícara de café? - Dona Florinda_
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineFOliveira&hide_progress=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineFOliveira&layout=compact&theme=gruvbox) <img src="https://conceitos.com/wp-content/uploads/ecologia/Girassol.jpg" style='width:175px;'></img>
 <!--
 **AlineFOliveira/AlineFOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
