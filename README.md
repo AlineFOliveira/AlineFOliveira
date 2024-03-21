@@ -1,5 +1,7 @@
-### My read.me is still under construction :)
+### 👋 Bem-vindos!
+_☕ "Não gostaria de entrar e tomar uma xícara de café? - Dona Florinda_
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineFOliveira&hide_progress=true&theme=highcontrast)
 <!--
 **AlineFOliveira/AlineFOliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
